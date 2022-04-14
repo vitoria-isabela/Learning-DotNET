@@ -10,14 +10,14 @@
 </div>
 
 # Overview
-
-
-## Projects
-
 This repository was created to study the .NET platform.
+
+# Projects
 So far we have the following projects:
-- ##mslearn-dotnet-files: Here you will find studies that were carried out on the Microsoft Learning platform. All Modules/Learning Paths/Challenges are placed within this solution.
-- ##Console.DotNet.Project: In this repository are placed the studies referring to the Console project of the .NET platform. All new studies about Console Application will be incremented within this project.
+- ## mslearn-dotnet-files: 
+ Here you will find studies that were carried out on the Microsoft Learning platform. All Modules/Learning Paths/Challenges are placed within this solution.
+- ## Console.DotNet.Project: 
+ In this repository are placed the studies referring to the Console project of the .NET platform. All new studies about Console Application will be incremented within this project.
 
 # Contacts
 
