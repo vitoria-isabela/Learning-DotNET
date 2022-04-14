@@ -23,4 +23,5 @@ So far we have the following projects:
 
 If you have any questions or improvements for this repository, you can contact me in the following ways:
 - [LinkedIn](https://www.linkedin.com/in/vitoria-isabela/)
-- [Gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+- [Gmail](vitoriaisabela368@gmail.com)
+- [Outlook](vitoriaisabela.deoliveira@thomsonreuters.com)
