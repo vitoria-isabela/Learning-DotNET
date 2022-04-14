@@ -3,8 +3,8 @@
 # Contents
 - [Overview](#overview)
 - [Projects](#Projects)
-    - [mslearn-dotnet-files](#mslearn-dotnet-files)
-    - [Console.DotNet.Project](#Console.DotNet.Project)
+    - [mslearn-dotnet-files](##mslearn-dotnet-files)
+    - [Console.DotNet.Project](##Console.DotNet.Project)
 - [Contacts](#contacts)
   
 </div>
