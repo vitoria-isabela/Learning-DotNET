@@ -1,5 +1,4 @@
-<div style="border: solid 1px; width: fit-content; padding: 0px 20px 20px 20px; border-color: rgba(234,234,234,1)">
-  
+
 ## Contents
 - [Overview](#overview)
 - [Projects](#Projects)
@@ -7,7 +6,7 @@
     - [Console.DotNet.Project](https://github.com/vitoria-isabela/Learning-DotNET/tree/master/mslearn-dotnet-files)
 - [Contacts](#contacts)
   
-</div>
+***
 
 # Overview
 This repository was created to study the .NET platform.
