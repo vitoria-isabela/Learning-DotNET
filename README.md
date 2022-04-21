@@ -3,8 +3,8 @@
 ## Contents
 - [Overview](#overview)
 - [Projects](#Projects)
-    - [mslearn-dotnet-files](##mslearn-dotnet-files)
-    - [Console.DotNet.Project](##Console.DotNet.Project)
+    - [mslearn-dotnet-files](https://github.com/vitoria-isabela/Learning-DotNET/tree/master/Console.DotNet.Project)
+    - [Console.DotNet.Project](https://github.com/vitoria-isabela/Learning-DotNET/tree/master/mslearn-dotnet-files)
 - [Contacts](#contacts)
   
 </div>
